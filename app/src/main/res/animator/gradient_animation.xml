@@ -1,0 +1,6 @@
+<objectAnimator xmlns:android="http://schemas.android.com/apk/res/android"
+    android:duration="3000"
+    android:propertyName="angle"
+    android:valueFrom="0"
+    android:valueTo="360"
+    android:valueType="floatType" />
